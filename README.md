@@ -33,10 +33,12 @@ Training Modules Names:
 
 Using the Suicide Prevention Data as an example: 
 1. Bar chart has been created to show due range count by unit:
-2. Heat Map has been created to show due dat range count by Grade:
-3. Table showing the employee Names, Grade, Unit, and Due Date:
-4. Total Count for each due date range, with color coding (Red: Not Started and Over Due, Orange: Due within 30 days, Green: Due within 60, 90, and 0ver 90 days)
-5. Dashboard to show everything together: 
+ <img width="355" alt="image" src="https://github.com/snkty8/Electric_Vehicles/assets/78936833/177f551a-a498-44cb-9997-15f3cee94a46](https://github.com/snkty8/Sort_Project/blob/main/Count%20by%20Unit.png">
+
+3. Heat Map has been created to show due dat range count by Grade:
+4. Table showing the employee Names, Grade, Unit, and Due Date:
+5. Total Count for each due date range, with color coding (Red: Not Started and Over Due, Orange: Due within 30 days, Green: Due within 60, 90, and 0ver 90 days)
+6. Dashboard to show everything together: 
 
 
 
