@@ -35,10 +35,17 @@ Using the Suicide Prevention Data as an example:
 1. Bar chart has been created to show due range count by unit:
  <img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Count%20by%20Unit.png">
 
-3. Heat Map has been created to show due dat range count by Grade:
-4. Table showing the employee Names, Grade, Unit, and Due Date:
-5. Total Count for each due date range, with color coding (Red: Not Started and Over Due, Orange: Due within 30 days, Green: Due within 60, 90, and 0ver 90 days)
-6. Dashboard to show everything together: 
+2. Heat Map has been created to show due date range count by Grade:
+ <img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Count%20by%20Grade.png">
+   
+3. Table showing the employee Names, Grade, Unit, and Due Date:
+  <img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Name%20and%20Dates.png">
+ 
+4. Total Count for each due date range, with color coding (Red: Not Started and Over Due, Orange: Due within 30 days, Green: Due within 60, 90, and 0ver 90 days):
+   <img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Total%20Counts.png">
+  
+5. Dashboard to show everything together:
+   <img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Example%20Dashboard.png">
 
 
 
