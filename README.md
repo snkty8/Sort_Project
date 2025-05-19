@@ -33,22 +33,22 @@ Training Modules Names:
 
 Using the Suicide Prevention Data as an example: 
 1. Bar chart has been created to show due range count by unit:
-<img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Count%20by%20Unit.png">
+<img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Count%20by%20Unit.png">
 
 
 2. Heat Map has been created to show due date range count by Grade:
-<img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Count%20by%20Grade.png">
+<img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Count%20by%20Grade.png">
 
    
 3. Table showing the employee Names, Grade, Unit, and Due Date:
-<img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Name%20and%20Dates.png">
+<img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Name%20and%20Dates.png">
 
  
 4. Total Count for each due date range, with color coding (Red: Not Started and Over Due, Orange: Due within 30 days, Green: Due within 60, 90, and 0ver 90 days):
-<img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Total%20Counts.png">
+<img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Total%20Counts.png">
 
   
 5. Dashboard to show everything together. Includes downdrop to filter the unit and due date range:
-<img width="355" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Example%20Dashboard.png">
+<img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Example%20Dashboard.png">
 
 
