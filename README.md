@@ -32,7 +32,7 @@ Training Modules Names:
 15. Site Controller
 
 Using the Suicide Prevention Data as an example: 
-1. bar chart has been created to show due range count by unit:
+1. Bar chart has been created to show due range count by unit:
 2. Heat Map has been created to show due dat range count by Grade:
 3. Table showing the employee Names, Grade, Unit, and Due Date:
 4. Total Count for each due date range, with color coding (Red: Not Started and Over Due, Orange: Due within 30 days, Green: Due within 60, 90, and 0ver 90 days)
