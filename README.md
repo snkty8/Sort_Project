@@ -2,11 +2,11 @@
 
 Training Manager has been using excel to take employee training. This has becoming cumbersome and hard to track. She is looking for a Dashboard to visualize training modules:
 1. That are:
-  # Over due
-  # Due within 30 days
-  # Due within 60 Days
-  # Due within 90 days
-  # Due in over 90 days
+  * Over due
+  * Due within 30 days
+  * Due within 60 Days
+  * Due within 90 days
+  * Due in over 90 days
   
 2. Show names, unit, and grade for each.
 
