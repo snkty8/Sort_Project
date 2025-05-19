@@ -51,4 +51,5 @@ Using the Suicide Prevention Data as an example:
 5. Dashboard to show everything together. Includes downdrop to filter the unit and due date range:
 <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Example%20Dashboard.png">
 
-
+## Next Steps
+Once manager has taken a look at the example dashboard, will makes any changes and move forward with adding the remain columns. 
