@@ -32,23 +32,38 @@ Training Modules Names:
 15. Site Controller
 
 Using the Suicide Prevention Data as an example: 
-1. Bar chart has been created to show due range count by unit:
+1. Two Calculations were made:
+   a. SuicidePrevention_DateDiff: Calculates the number of days from the 5-1-2025 (when file was created) to the due date listed in the columns for each name:
+   
+   <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Suicide_Prevention_Date_Diff.png">
+
+   b. SuicidePrevention_Calc: Using day count from SuicidePrevention_DateDiff and transforming to categorical values:
+   * Over Due
+   * Never Started
+   * Due within 30 days
+   * Due within 60 days
+   * Due within 90 days
+   * Due in over 90 Days
+   
+   <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Suicide_Prevention_Count.png">
+   
+3. Bar chart has been created to show due range count by unit:
 <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Count%20by%20Unit.png">
 
 
-2. Heat Map has been created to show due date range count by Grade:
+4. Heat Map has been created to show due date range count by Grade:
 <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Count%20by%20Grade.png">
 
    
-3. Table showing the employee Names, Grade, Unit, and Due Date:
+5. Table showing the employee Names, Grade, Unit, and Due Date:
 <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Name%20and%20Dates.png">
 
  
-4. Total Count for each due date range, with color coding (Red: Not Started and Over Due, Orange: Due within 30 days, Green: Due within 60, 90, and 0ver 90 days):
+6. Total Count for each due date range, with color coding (Red: Not Started and Over Due, Orange: Due within 30 days, Green: Due within 60, 90, and 0ver 90 days):
 <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Total%20Counts.png">
 
   
-5. Dashboard to show everything together. Includes downdrop to filter the unit and due date range:
+7. Dashboard to show everything together. Includes downdrop to filter the unit and due date range:
 <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Example%20Dashboard.png">
 
 ## Next Steps
