@@ -67,4 +67,14 @@ Using the Suicide Prevention Data as an example:
 <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Example%20Dashboard.png">
 
 ## Next Steps
+05-16-25
 Once manager has taken a look at the example dashboard, will makes any changes and move forward with adding the remain columns. 
+
+05-23-25
+Manager has taken a look a the dashboard example, loves it, but has a few questions:
+1. Will there be one dashboard to show all training?
+   * * I am researchng a way to show all on one dashboard. Work around for now, create buttons to easily jump to each training.
+2. Will it remain plain, the white background for example?
+   * * I will "prettify" the dashboards to her liking.
+3. What needs to be done to access the dashboard from anywhere?
+    * * Since Tableau is being used, the dashboards will be published, and able to access from any device using the URL.
