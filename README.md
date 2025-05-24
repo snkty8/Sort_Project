@@ -68,9 +68,11 @@ Using the Suicide Prevention Data as an example:
 
 ## Next Steps
 05-16-25
+
 Once manager has taken a look at the example dashboard, will makes any changes and move forward with adding the remain columns. 
 
 05-23-25
+
 Manager has taken a look a the dashboard example, loves it, but has a few questions:
 1. Will there be one dashboard to show all training?
 
