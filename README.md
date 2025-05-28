@@ -85,3 +85,14 @@ Manager has taken a look a the dashboard example, loves it, but has a few questi
 5. What needs to be done to access the dashboard from anywhere?
 
    *Since Tableau is being used, the dashboards will be published, and able to access from any device using the URL.*
+
+
+05-28-25
+Added buttons for each training. Allows the viewer to jump from main screen to training list, then back to main screen to select any of the other trainings:
+
+Main Screen: 
+<img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Main_screen_example.png">
+
+Example jump (Training List button top right of page)
+<img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/button_example.png">
+
