@@ -91,8 +91,10 @@ Manager has taken a look a the dashboard example, loves it, but has a few questi
 Added buttons for each training. Allows the viewer to jump from main screen to training list, then back to main screen to select any of the other trainings:
 
 Main Screen: 
+
 <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/Main_screen_example.png">
 
-Example jump (Training List button top right of page)
+Example jump (Training List button top right of page):
+
 <img width="400" alt="image" src="https://github.com/snkty8/Sort_Project/blob/main/button_example.png">
 
